@@ -65,12 +65,6 @@ Proyek ini bertujuan untuk menganalisis data historis jumlah ikan tuna (Bluefin 
 
 ---
 
-## 🖼️ Visualisasi
-
-![Contoh grafik tren](path/to/grafik.png)
-
----
-
 ## 👩‍💻 Teknologi yang Digunakan
 
 - Python (Pandas, Seaborn, Matplotlib)
