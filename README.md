@@ -83,5 +83,5 @@ Proyek ini bertujuan untuk menganalisis data historis jumlah ikan tuna (Bluefin 
 
 ## 📬 Kontak
 
-- **Nama**: Asfita Saldarisya N.
+- **Nama**: Asfita Saldarisya Nadjun
 - **Capstone Hacktiv8 2025**
